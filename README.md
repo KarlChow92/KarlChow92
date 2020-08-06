@@ -18,6 +18,8 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scrum — What is your ideal future?](https://medium.com/@karl.chow92/scrum-what-is-your-ideal-future-d97b13598a07?source=rss-be8ecec29a2f------2)
+- [Scrum — A different Retrospective](https://medium.com/@karl.chow92/scrum-a-different-retrospective-7c0155f7aa08?source=rss-be8ecec29a2f------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
