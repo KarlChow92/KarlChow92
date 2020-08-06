@@ -1,11 +1,11 @@
 ### Hi there, I'm [Karl-John][website] 👋
 
 ## I'm a mobile Developer, and Scrum Master!
-- 📱 I can help out with iOS and Android. I am now even doing a bit of flutter!
-- 🎯 Besides that, I am quite a scrum enthousiast I would say :).
-- 👨🏻‍💻 I am currently happily working for [YouTrip][youtrip].
-- 💵 I also have [my own app][goingdutch], you should check it out (and of course I am working on more)!
-- ⚡ Fun facts: I solve rubiks cubes super quick, lol.
+- 📱  I can help out with iOS and Android. I am now even doing a bit of flutter!
+- 🎯  Besides that, I am quite a scrum enthousiast I would say :).
+- 👨🏻‍💻  I am currently happily working for [YouTrip][youtrip].
+- 💵  I also have [my own app][goingdutch], you should check it out (and of course I am working on more)!
+- ⚡  Fun facts: I solve rubiks cubes super quick, lol.
 ---
 
 ### Add me on:
