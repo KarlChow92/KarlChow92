@@ -3,9 +3,9 @@
 ## I'm a mobile Developer, and Scrum Master!
 - 📱 I can help out with iOS and Android. I am now even doing a bit of flutter!
 - 🎯 Besides that, I am quite a scrum enthousiast I would say :).
-- 👨🏻‍💻 I am currently working for [YouTrip][youtrip]
-- 💵 I also have my own app, you should check it out (and of course I am working on more)!
-- ⚡ Fun fact: I solve rubiks cubes under 1 min.
+- 👨🏻‍💻 I am currently happily working for [YouTrip][youtrip].
+- 💵 I also have [my own app][goingdutch], you should check it out (and of course I am working on more)!
+- ⚡ Fun facts: I solve rubiks cubes super quick, lol.
 ---
 
 ### Add me on:
@@ -33,3 +33,4 @@
 [instagram]: https://www.instagram.com/thisiskarljohnchow/
 [linkedin]: https://www.linkedin.com/in/karl-john-chow-91196679/
 [youtrip]: https://you.co
+[goingdutch]: https://goingdutchapp.com/
