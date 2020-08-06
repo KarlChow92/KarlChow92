@@ -1,6 +1,6 @@
 ### Hi there, I'm [Karl-John][website] 👋
 
-## I'm a mobile Developer, and Scrum Master!
+## I'm a mobile developer, and scrum master!
 - 📱  I can help out with iOS and Android. I am now even doing a bit of flutter!
 - 🎯  Besides that, I am quite a scrum enthousiast I would say :).
 - 👨🏻‍💻  I am currently happily working for [YouTrip][youtrip].
