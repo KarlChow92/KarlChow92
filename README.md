@@ -1,22 +1,29 @@
 ### Hi there, I'm [Karl-John][website] 👋
 
 ## I'm a mobile Developer, and Scrum Master!
-- 📱 I can help out with iOS and Android and I am now even doing a bit of flutter!
-- 🎯 Besides that, I am quite a scrum enthousiast I would say :).
-- 👨🏻‍💻 I am currently working for [YouTrip][youtrip]
-- 💵 I also have my own app, you should check it out (and of course I am working on more)!
-- ⚡ Fun fact: I solve rubiks cubes under 1 min.
+📱 I can help out with iOS and Android. I am now even doing a bit of flutter!
+🎯 Besides that, I am quite a scrum enthousiast I would say :).
+👨🏻‍💻 I am currently working for [YouTrip][youtrip]
+💵 I also have my own app, you should check it out (and of course I am working on more)!
+⚡ Fun fact: I solve rubiks cubes under 1 min.
 
-### Connect with me:
+<br />
+<br />
 
+---
+
+### Add me on:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
-### 📕 Latest Blog Posts
+---
+
+### 📕 Some medium articles related to scrum by me:
 <!-- BLOG-POST-LIST:START -->
 - [Scrum — What is your ideal future?](https://medium.com/@karl.chow92/scrum-what-is-your-ideal-future-d97b13598a07?source=rss-be8ecec29a2f------2)
 - [Scrum — A different Retrospective](https://medium.com/@karl.chow92/scrum-a-different-retrospective-7c0155f7aa08?source=rss-be8ecec29a2f------2)
