@@ -26,7 +26,12 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KarlChow92&show_icons=true&hide_border=true&count_private=true" />
+![My activity on Github](https://github-readme-stats.vercel.app/api?username=KarlChow92&show_icons=true&hide_border=true&count_private=true)
+
+---
+
+[![What I write the most](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [website]: https://karljohnchow.com/
 [twitter]: https://twitter.com/kaaaarlll
