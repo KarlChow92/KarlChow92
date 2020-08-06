@@ -30,7 +30,7 @@
 
 ---
 
-[![What I write the most](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![What I write the most](https://github-readme-stats.vercel.app/api/top-langs/?username=KarlChow92&layout=compact)]
 
 
 [website]: https://karljohnchow.com/
