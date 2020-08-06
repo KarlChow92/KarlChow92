@@ -6,8 +6,6 @@
 - 👨🏻‍💻 I am currently working for [YouTrip][youtrip]
 - 💵 I also have my own app, you should check it out (and of course I am working on more)!
 - ⚡ Fun fact: I solve rubiks cubes under 1 min.
-<br />
-
 ---
 
 ### Add me on:
