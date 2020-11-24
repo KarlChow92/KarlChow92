@@ -27,7 +27,6 @@
 ---
 
 ![My activity on Github](https://github-readme-stats.vercel.app/api?username=KarlChow92&show_icons=true&hide_border=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarlChow92)](https://github.com/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [scrum]: https://www.scrum.org/user/701035
 [website]: https://karljohnchow.com/
