@@ -1,13 +1,14 @@
 ### Hi there, I'm [Karl-John][website] 👋
 
-## I'm a mobile developer, and scrum master!
-- 📱  I can help out with iOS and Android and streamelining the development process of it. 
-- 🏭  What does that mean? Help building the CI/CD pipeline for it, from commit to deployment!
-- 💻  I also do a lot of Flutter nowadays.
+## I'm a senior software consultant!
+- 📱  I mostly help companies out with their iOS and Android app currently.
+- 🏭  What does that mean? Help implementing the CI/CD pipeline for it, from commit to deployment!
+- 👨🏻‍🏫  And try to educate my fellow colleagues or developers at client side to get them going quicker.
+- 💻  I mostly develop in Flutter nowadays, but native development is still something I enjoy a lot.
 - 🎯  Besides that, I am quite a [scrum enthousiast][scrum] I would say :).
-- 👨🏻‍💻  I am currently happily working for [YouTrip][youtrip].
+- 👨🏻‍💻  I am currently happily working for [Palo-IT][paloit].
 - 💵  I also have [my own app][goingdutch], you should check it out (and of course I am working on more)!
-- ⚡  Fun facts: I solve rubiks cubes super quick, lol.
+- ⚡  Fun facts: I solve rubiks cubes super quick, and I love a game of Chess ♟.
 ---
 
 ### Add me on:
@@ -35,5 +36,5 @@
 [twitter]: https://twitter.com/kaaaarlll
 [instagram]: https://www.instagram.com/thisiskarljohnchow/
 [linkedin]: https://www.linkedin.com/in/karl-john-chow-91196679/
-[youtrip]: https://you.co
+[paloit]: https://www.palo-it.com/en-hk/
 [goingdutch]: https://goingdutchapp.com/
