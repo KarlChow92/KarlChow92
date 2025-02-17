@@ -1,13 +1,11 @@
 ### Hi there, I'm [Karl-John][website] 👋
 
-## I'm a senior software consultant!
-- 📱  I mostly help companies out with their iOS and Android app currently.
-- 🏭  What does that mean? Help implementing the CI/CD pipeline for it, from commit to deployment!
+## I'm a Tech Lead!
+- 📱  I mostly help companies out with their IT strategy and vision and provide IT Advisory services.
+- 🏭  I also help implementing the CI/CD pipeline for it, from commit to deployment!
 - 👨🏻‍🏫  And try to educate my fellow colleagues or developers at client side to get them going quicker.
-- 💻  I mostly develop in Flutter nowadays, but native development is still something I enjoy a lot.
-- 🎯  Besides that, I am quite a [scrum enthousiast][scrum] I would say :).
+- 💻  I mostly develop in Dart, GoLang and Typescript nowadays.
 - 👨🏻‍💻  I am currently happily working for [Palo-IT][paloit].
-- 💵  I also have [my own app][goingdutch], you should check it out (and of course I am working on more)!
 - ⚡  Fun facts: I solve rubiks cubes super quick, and I love a game of Chess ♟.
 ---
 
